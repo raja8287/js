@@ -1,0 +1,12 @@
+<h1>Backtracking</h1>
+<p>copyright &copy;2000 since  &#8377;</p>
+<p>the usual scenio is that you are faced with a number of option ,and you must choose one of these .after you will get a new set of option just what set of option ;just what set of option you get depends on what choice you made .this procedure is repeated over and over until you reach a final state; if you made a good sequence of choice ,your final state is a goal state:if you didn't</p>
+<img src="https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking_files/treesearch.gif"/>
+<ol>
+  <li>art</li>
+  <li>gg</li>
+  <li>ra</li>
+  </ol>
+<ul>
+  <li>starting at root ,uou kjoh jkhj ij hiuho iohionihu9hdf8d fjdsiufijiofidigjiogjiop </li>
+  </ul>
